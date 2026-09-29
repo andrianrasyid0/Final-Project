@@ -1,3 +1,5 @@
+<center><img src ="Gambar/M. Rasyid Andrian.png"><img></center>
+
 # Final Project
 Final Project Data Analyst & Business Intelligent tentang "Analisa performa & resiko pembayaran customer loan" , ingin melihat apa saja faktor - faktor yang menyebabkan customer berhenti membayar angsuran 
 ## Sumber data
